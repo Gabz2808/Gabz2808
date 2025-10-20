@@ -1,56 +1,113 @@
-<h2 align="left">Hi 👋!<br>My name is Gabriel Mairena and I'm a Software Developer from Costa Rica.</h2>
+<h2 align="left">Hi 👋!<br>I'm Gabriel Mairena from Costa Rica 🇨🇷</h2>
 
-### About Me 🐝
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7DF1E&width=460&lines=Full+Stack+Developer;Software+Engineer;Creative+Mind;Bee-Inspired+Builder" alt="Typing SVG" />
 
-As a **Junior Full Stack Developer**, I bring a creative, curious, and constructive mindset to every project. My passion lies at the intersection of technological innovation, sustainability, education, and cloud computing. I blend a programmer's logic with a keen eye for design, a constant drive for learning, and a commitment to building solutions that benefit others.
+---
 
-The **bee** is my ideal symbol, representing cooperation, consistent hard work, collective intelligence, and the perfect harmony between nature and technology—qualities that resonate deeply with my profile.
+> 🐝 *“Coding with the precision of a system and the harmony of a hive.”*
 
-###
+---
+
+### 🧠 About Me
+
+As a **Junior Full Stack Developer**, I bring a **creative, curious, and constructive mindset** to every project.  
+My work lives at the intersection of **technological innovation, sustainability, education, and cloud computing**.  
+
+I blend the **logic of a programmer** with a **designer’s curiosity** and a passion for learning.  
+The **bee** is my symbol — representing **teamwork, consistency, intelligence, and balance** between **nature and technology**.
+
+---
+
+### 🧭 Building My Next Evolution
+
+- 🧠 Exploring **AI ecosystems** — blending intelligence and empathy in digital assistants.  
+- ☁️ Designing **cloud-native infrastructures** that scale like a hive.  
+- 🎨 Mastering **UI/UX storytelling** to create meaningful user journeys.  
+- 🧬 Learning **system architecture & design patterns** to craft resilient applications.  
+
+### 🧩 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="25" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="25" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="25" />
+</div>
+
+---
+
+### 🧠 My Development Philosophy
+
+> “A hive thrives on collaboration — just like good software.”  
+
+I believe technology should **empower people**, not replace them.  
+Every line of code is an opportunity to **simplify, educate, and connect**.
+
+---
+
+### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabz2808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabz2808&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabz2808&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabz2808&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
 </div>
 
-### Technologies & Tools
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabz2808&theme=dracula&no-background=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🔄 Activity Graph
+
+<div align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=Gabz2808&theme=dracula" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+### 🌐 Connect with Me
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <a href="https://www.linkedin.com/in/gabriel-mairena-granera-391933245/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:bee28gabz.dev.test@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/bee28gabz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
 </div>
 
-### Connect with Me
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" href="https://www.instagram.com/bee28gabz/" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" href="https://www.linkedin.com/in/gabriel-mairena-granera-391933245/" />
-</div>
+### 🧡 Thank you for visiting my hive!
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gabz2808/Gabz2808/output/snake.svg" alt="Snake animation" />
-
-###
+> 🐝 *“Building, learning, and buzzing for a better digital world.”*  
+> — **Gabriel Mairena**
