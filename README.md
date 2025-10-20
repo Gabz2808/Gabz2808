@@ -1,6 +1,6 @@
 <h2 align="left">Hi !<br>I'm Gabriel Mairena from Costa Rica 🇨🇷</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7DF1E&width=460&lines=Full+Stack+Developer;Software+Engineer;Creative+Mind;Bee-Inspired+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FFD700&width=460&lines=System+Engineering+Student;Curious+Mind+%26+Code+Learner;Building+Sweet+Solutions;Full-Stack+Developer" alt="Typing SVG" />
 
 ---
 
@@ -20,7 +20,7 @@ The **bee** is my symbol — representing **teamwork, consistency, intelligence,
 ###  Learning
 
 - Exploring **AI ecosystems** 
-- Designing **cloud-native infrastructures** t
+- Designing **cloud-native infrastructures** 
 - Learning **system architecture & design patterns**
 
 ### Tech Stack
