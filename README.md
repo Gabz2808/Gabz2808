@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br>I'm Gabriel Mairena from Costa Rica 🇨🇷</h2>
+<h2 align="left">Hi !<br>I'm Gabriel Mairena from Costa Rica 🇨🇷</h2>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7DF1E&width=460&lines=Full+Stack+Developer;Software+Engineer;Creative+Mind;Bee-Inspired+Builder" alt="Typing SVG" />
 
@@ -8,24 +8,22 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 As a **Junior Full Stack Developer**, I bring a **creative, curious, and constructive mindset** to every project.  
-My work lives at the intersection of **technological innovation, sustainability, education, and cloud computing**.  
+My work lives at the intersection of **technological innovation, sustainability and education**.  
 
-I blend the **logic of a programmer** with a **designer’s curiosity** and a passion for learning.  
 The **bee** is my symbol — representing **teamwork, consistency, intelligence, and balance** between **nature and technology**.
 
 ---
 
-### 🧭 Building My Next Evolution
+###  Learning
 
-- 🧠 Exploring **AI ecosystems** — blending intelligence and empathy in digital assistants.  
-- ☁️ Designing **cloud-native infrastructures** that scale like a hive.  
-- 🎨 Mastering **UI/UX storytelling** to create meaningful user journeys.  
-- 🧬 Learning **system architecture & design patterns** to craft resilient applications.  
+- Exploring **AI ecosystems** 
+- Designing **cloud-native infrastructures** t
+- Learning **system architecture & design patterns**
 
-### 🧩 Tech Stack
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -57,16 +55,8 @@ The **bee** is my symbol — representing **teamwork, consistency, intelligence,
 
 ---
 
-### 🧠 My Development Philosophy
 
-> “A hive thrives on collaboration — just like good software.”  
 
-I believe technology should **empower people**, not replace them.  
-Every line of code is an opportunity to **simplify, educate, and connect**.
-
----
-
-### 📈 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabz2808&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
@@ -75,7 +65,6 @@ Every line of code is an opportunity to **simplify, educate, and connect**.
 
 ---
 
-### 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gabz2808&theme=dracula&no-background=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -83,15 +72,13 @@ Every line of code is an opportunity to **simplify, educate, and connect**.
 
 ---
 
-### 🔄 Activity Graph
-
 <div align="center">
   <img src="https://activity-graph.vercel.app/graph?username=Gabz2808&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-mairena-granera-391933245/" target="_blank">
@@ -107,7 +94,4 @@ Every line of code is an opportunity to **simplify, educate, and connect**.
 
 ---
 
-### 🧡 Thank you for visiting my hive!
-
-> 🐝 *“Building, learning, and buzzing for a better digital world.”*  
-> — **Gabriel Mairena**
+### Thank you for visiting!
